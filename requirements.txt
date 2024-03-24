@@ -1,0 +1,6 @@
+superagi
+selenium
+webdriver_manager
+datetime
+pydantic
+typing
